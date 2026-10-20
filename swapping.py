@@ -1,6 +1,6 @@
 # before swapping
-a = 10
-b = 20
+a = 16
+b = 28
 print(a)
 print(b)
 # after swapping
